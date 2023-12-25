@@ -1,0 +1,27 @@
+h1
+{
+
+text-transform: uppercase;
+}
+body
+{
+    background-color: lavenderblush;
+}
+p{
+    font-family:'Lobster', sans-serif;;
+}
+#main
+{
+width: 50%;
+margin-left: 25%;
+border-color: black;
+text-align: center;
+font-family: libre bakerville, serif;
+margin-top: 70px;
+}
+.photo
+{
+width: 70%;
+border: 5px solid black;
+}
+
